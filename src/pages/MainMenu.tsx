@@ -64,7 +64,7 @@ const MainMenu = () => {
               transition={{ delay: 0.2, duration: 0.8 }}
               className="inline-block mb-3 px-4 py-1 bg-orange-100 dark:bg-orange-900/40 text-orange-800 dark:text-orange-300 rounded-full text-sm font-semibold"
             >
-              Sistem Informasi Terintegrasi
+              Peta Okupasi
             </motion.div>
 
             <motion.h1
@@ -91,9 +91,8 @@ const MainMenu = () => {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.6, duration: 0.8 }}
             >
-              Platform terdepan untuk mengakses data terintegrasi tentang
-              okupasi bidang Teknologi Informasi dan Komunikasi di sekolah
-              kejuruan Sulawesi Utara.
+              Platform untuk mengakses data terintegrasi tentang okupasi di<br />
+              Sekolah Menengah Kejuruan (SMK) di Sulawesi Utara
             </motion.p>
 
             <motion.div
